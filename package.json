@@ -1,0 +1,15 @@
+{
+  "name": "pharmexchange",
+  "version": "1.0.0",
+  "description": "a medical site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~https://github.com/yuvraj-aseri/pharmexchange.git)"
+  },
+  "author": "yuvraj-aseri",
+  "license": "ISC"
+}
